@@ -1,4 +1,1 @@
-open
-====
-
-SomethingOpen
+Like others.
